@@ -6,7 +6,7 @@ This is one of the projects built during [The Web Developer Bootcamp](https://ww
 
 ## Completed Project
 
-![Alt text](https://github.com/DrewcHarris/Patatp_Clone/blob/master/screenshot.png?raw=true)
+![Alt text](https://github.com/DrewcHarris/Patatap_Clone/blob/master/screenshot.png)
 
 You can view the fully working project [here](http://www.cth3.com/drew/patatap/circles.html).
 
